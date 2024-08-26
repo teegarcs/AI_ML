@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2024-05-22T18:18:11.867Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ObjRU98zmmiYuKIMvcmL" version="24.4.6" type="device">
+  <diagram name="Page-1" id="KkEtf6FJX2_19c6K_5T0">
+    <mxGraphModel dx="1190" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kWKrIWUBIw4JxlPYBnq7-1" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWKrIWUBIw4JxlPYBnq7-2" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="sourcePoint" />
+            <mxPoint x="200" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWKrIWUBIw4JxlPYBnq7-3" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="sourcePoint" />
+            <mxPoint x="390" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWKrIWUBIw4JxlPYBnq7-4" value="" style="endArrow=oval;html=1;rounded=0;dashed=1;dashPattern=8 8;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="sourcePoint" />
+            <mxPoint x="330" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWKrIWUBIw4JxlPYBnq7-5" value="Movie &lt;br&gt;[0.1, 0.2, 0.3,....]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="137" y="81" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kWKrIWUBIw4JxlPYBnq7-6" value="Musician&lt;br&gt;[0.3, 0.5, 0.1,....]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kWKrIWUBIw4JxlPYBnq7-7" value="Music&lt;br&gt;[0.2, 0.1, 0.1,....]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="419" y="346" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kWKrIWUBIw4JxlPYBnq7-8" value="User Query&lt;br&gt;[0.1, 0.6, 0.1,....]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="306" y="91" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

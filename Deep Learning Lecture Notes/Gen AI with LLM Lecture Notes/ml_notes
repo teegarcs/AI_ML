@@ -1,0 +1,27 @@
+IP Sprint thoughts 
+
+- Auto Translate using LLM to support non-supported languages 
+- Local Chat App that does what a normal chat bot does without the back end requirements 
+ 
+ Code Lab Help: https://codelabs.developers.google.com/kerasnlp-tflite#0
+
+
+ AI/ML Learning Path: 
+ https://io.google/2023/program/8f5c6541-7260-4e56-88b4-d180f4e30f75/
+
+
+
+
+AI for everyone(Coursera ~ 10hours): https://www.deeplearning.ai/courses/ai-for-everyone/
+
+Neural Network Overview (Youtube ~ 5 min): https://www.youtube.com/watch?v=fXOsFF95ifk
+	-discusses math behind neural network 
+
+
+Convolusion Play List on Youtube: https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+
+Convolusion Filter Docs: https://lodev.org/cgtutor/filtering.html
+
+Gradient Descent & Learning Rate: https://www.youtube.com/watch?v=zLRB4oupj6g
+
+Binary Classification: https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s
